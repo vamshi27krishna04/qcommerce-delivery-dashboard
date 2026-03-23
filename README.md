@@ -45,14 +45,9 @@ Interactive dashboard and exploratory data analysis for monitoring quick commerc
 | `survey_data_cleaned.csv` | Cleaned consumer survey data |
 | `delivery_data_cleaned.csv` | Cleaned operational delivery data |
 | `hypothesis*.png` | Static analysis charts |
-| `BEMM461_Report.docx` | Full academic report |
+
 
 ### **Usage**
 
 Open `dashboard.html` in any modern web browser. Click time-period buttons to filter all visualizations and KPIs.
 
-### **Academic Context**
-
-Coursework submission for BEMM461 Data Analysis and Visualisation, University of Exeter. Demonstrates exploratory data analysis, interactive dashboard design, and critical evaluation of AI-assisted analytical approaches.
-
----
